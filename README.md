@@ -7,6 +7,15 @@ I build practical AI applications that turn documents, images and audio into use
 
 [Connect with me on LinkedIn](https://www.linkedin.com/in/ibtissam-benchayb-%D8%A5%D8%A8%D8%AA%D8%B3%D8%A7%D9%85-%D8%A8%D9%86-%D8%B4%D8%B9%D8%A7%D9%8A%D8%A8-1ab0ba198)
 
+## Machine learning, deep learning & internships
+
+| Experience | Skills and contributions |
+| --- | --- |
+| IceBergTech | Python scripts for license-plate recognition error analysis, image annotation and data preparation |
+| Eurafric Information | Financial web scraping, preprocessing and contribution to stock-index prediction |
+| Music recommendation project | Collaborative filtering and recommendation evaluation |
+| ML/DL skills | Scikit-learn, PyTorch, TensorFlow; familiarity with CNNs, RNNs and Transformers |
+
 ## What I work on
 
 - **Multimodal AI:** assistants and workflows that combine text, images, audio and documents.
